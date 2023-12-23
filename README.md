@@ -14,6 +14,10 @@ Drag the .gd-file you got from GridlessDB (should be located in Database/classes
 
 Press "Refactor"
 
+Godot will need to reaload the file before you can see any changes so on Windows you can just press the taskbar and click back into Godot or just ALT+TAB and back.
+
+You should be prompted with a window that asks if you want to reload the file. Click "Reload".
+
 Open the .gd file and make sure there are no errors. Any errors can be fixed manually.
 
 When you double click any .tres file in the objects folder the output might read "Attempt to open script 'res://Database/classes/Category.gd' resulted in error 'File not found'."
