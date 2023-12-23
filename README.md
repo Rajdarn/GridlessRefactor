@@ -10,7 +10,7 @@ A new tab will appear
 
 ![1](https://github.com/Rajdarn/GridlessRefactor/assets/71663616/bd416221-f6e4-486b-b819-7ecd9a8cc35e)
 
-Drag the .gd-file you got from GridlessDB onto the text field that reads "Drag the Gridless class..."
+Drag the .gd-file you got from GridlessDB (should be located in Database/classes) onto the text field that reads "Drag the Gridless class..."
 
 Press "Refactor"
 
