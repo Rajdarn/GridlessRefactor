@@ -1,8 +1,8 @@
 # GridlessRefactor
-A simple plugin that fixes (mostly) the godot export from GridlessDB to work with godot 4
+A simple plugin that fixes (mostly) the Godot export from GridlessDB to work with godot 4
 
 # How to install and use:
-Download gridlessrefactor.zip and unzip into your godot_project/addons folder. Create an addons folder if you don't have one.
+Download gridlessrefactor.zip and unzip into your Godot_project/addons folder. Create an addons folder if you don't have one.
 
 In Godot, go to Project->Project Settings->Plugins and enable the plugin
 
