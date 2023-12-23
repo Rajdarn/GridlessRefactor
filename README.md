@@ -20,7 +20,7 @@ You should be prompted with a window that asks if you want to reload the file. C
 
 Open the .gd file and make sure there are no errors. Any errors can be fixed manually.
 
-When you double click any .tres file in the objects folder the output might read "Attempt to open script 'res://Database/classes/Category.gd' resulted in error 'File not found'."
+When you double click any .tres file in the objects folder the output might read "Attempt to open script 'res://Database/classes/YOUR_DATABASE_NAME.gd' resulted in error 'File not found'."
 If so you can just move your Database folder to the project root (res://) and back into the gridlessDB folder and that should resolve it. You'll have to do this for each time you export the database from GridlessDB.
 
 That should be it. Hopefully it saves a bit of time.
